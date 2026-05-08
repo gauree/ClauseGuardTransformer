@@ -1,0 +1,3 @@
+Dataset contains legal clauses with associated type and risk labels used for NLP-based classification.
+
+Link for dataset : https://www.kaggle.com/datasets/sanketgadekar/legal-indian-contract-clauses-dataset
